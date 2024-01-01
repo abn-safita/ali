@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"a51",
+ "version":"cc1",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
