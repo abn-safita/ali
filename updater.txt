@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"dd1",
+ "version":"ali",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
