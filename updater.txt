@@ -1,5 +1,5 @@
 {
-  "fnmods_update": [
+  "abnsafita_update": [
     {
  "version":"alb",
  "title":"Update Disponible",
