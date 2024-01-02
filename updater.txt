@@ -3,16 +3,15 @@
     {
  "version":"ali",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"SawimMod Oficial V5
 
-Base: 2.23 1.76
-
+Edit By Abn#Safita
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+
 
  Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
+"download":"https://evilteam-pro.blogspot.com"
 }
   ]
 }
