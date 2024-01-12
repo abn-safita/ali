@@ -3,15 +3,8 @@
     {
  "version":"ali",
  "title":"Update Disponible",
- "description":"SawimMod Oficial V5
-
-Edit By Abn#Safita
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-
-
- يتوفر اصدار جديد ",
-"download":"https://evilteam-pro.blogspot.com"
+ "description":"Details",
+"download":"https://t.me/XmppAndroid"
 }
   ]
 }
